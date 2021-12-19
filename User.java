@@ -25,7 +25,7 @@ class DemoUser{
         System.out.println("Password :"+UserInput.Password);
 
         //Constructor Biasa Pemanggilan
-       User Akbar = new User("Akbarrzql", "Akbar228");
+       User Akbar = new User("Akbarrzql", "Akbar22");
         System.out.println("Username: "+ Akbar.Username);
         System.out.println("Password: "+ Akbar.Password);
 
