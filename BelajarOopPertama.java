@@ -45,7 +45,7 @@ class BelajarOopPertama {
         if (umur > 17){
             System.out.println("Selamat Anda Bisa Membuat SIM");
         }else {
-            System.out.println("Mohon Anda Tidak Bisa Mendapat SIM");
+            System.out.println("Mohon Anda Tidak Bisa Membuat SIM");
         }
     }
 
